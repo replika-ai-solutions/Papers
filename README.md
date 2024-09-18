@@ -1,5 +1,8 @@
 # Replika AI Solutions  
 
+![replika logo](https://github.com/user-attachments/assets/94b1fdc1-bc63-45bf-a745-5b1021bac20a)
+
+
 ![Maringá, PR](https://img.shields.io/badge/Maring%C3%A1%2C%20PR-Headquarters-green)
 ![State-of-the-Art AI](https://img.shields.io/badge/AI-State--of--the--Art-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Innovation-orange)
