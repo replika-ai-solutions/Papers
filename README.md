@@ -50,6 +50,44 @@ Oferecemos uma ampla gama de serviços especializados em **inteligência artific
 
 ---
 
+# 🌐 Replikasisemas AI Solutions: Superando a Máquina de Turing com LLMs e HyperEmbedding
+
+![GitHub repo size](https://img.shields.io/github/repo-size/replika-ai-solutions/Papers?label=Tamanho%20do%20Repositório&color=blue)
+![Last commit](https://img.shields.io/github/last-commit/replika-ai-solutions/Papers?label=%C3%9Altima%20Atualiza%C3%A7%C3%A3o&color=yellow)
+![License](https://img.shields.io/github/license/replika-ai-solutions/Papers?label=Licen%C3%A7a&color=green)
+
+---
+
+📄 **Leia nossos últimos artigos técnicos** sobre como **modelos de linguagem de grande escala (LLMs)** e **HyperEmbedding** estão transformando a computação clássica, superando a tradicional **Máquina de Turing** e oferecendo novas abordagens práticas para IA:
+
+### 📚 Principais Papers
+
+- [Superando a Máquina de Turing com Modelos de Linguagem de Grande Escala (LLM) e HyperEmbedding: Uma Abordagem Técnica e Prática (PT)](https://github.com/replika-ai-solutions/Papers/blob/main/Superando%20a%20M%C3%A1quina%20de%20Turing%20com%20Modelos%20de%20Linguagem%20de%20Grande%20Escala%20(LLM)%20e%20HyperEmbedding%3A%20Uma%20Abordagem%20T%C3%A9cnica%20e%20Pr%C3%A1tica.md)  
+  ![language](https://img.shields.io/badge/Linguagem-Portugu%C3%AAs-red)  
+  Um estudo técnico sobre as limitações da Máquina de Turing e como LLMs estão reestruturando nossa compreensão de automação cognitiva.
+
+- [Superando la Máquina de Turing con Modelos de Lenguaje de Gran Escala (LLM) y HyperEmbedding: Un Enfoque Técnico y Práctico (ES)](https://github.com/replika-ai-solutions/Papers/blob/main/Superando%20la%20M%C3%A1quina%20de%20Turing%20con%20Modelos%20de%20Lenguaje%20de%20Gran%20Escala%20(LLM)%20y%20HyperEmbedding%3A%20Un%20Enfoque%20T%C3%A9cnico%20y%20Pr%C3%A1ctico.md)  
+  ![language](https://img.shields.io/badge/Linguagem-Espanhol-blue)  
+  Este paper explora o impacto da **HyperEmbedding** em arquiteturas de IA modernas, focado no público de língua espanhola.
+
+- [Surpassing the Turing Machine with Large Language Models (LLMs) and HyperEmbedding: A Technical and Practical Approach (EN)](https://github.com/replika-ai-solutions/Papers/blob/main/Surpassing%20the%20Turing%20Machine%20with%20Large%20Language%20Models%20(LLMs)%20and%20HyperEmbedding%3A%20A%20Technical%20and%20Practical%20Approach.md)  
+  ![language](https://img.shields.io/badge/Linguagem-Ingl%C3%AAs-green)  
+  Uma análise profunda de como LLMs podem ultrapassar os limites estabelecidos pelas máquinas de Turing, com exemplos práticos e conceitos avançados.
+
+- [Máquina de Turing vs Modelos de Linguagem: Qual a Próxima Revolução?](https://github.com/replika-ai-solutions/Papers/blob/main/maquina-turing.md)  
+  ![study](https://img.shields.io/badge/Estudo-Avan%C3%A7ado-lightgrey)  
+  Um comparativo detalhado entre a Máquina de Turing e os LLMs, discutindo o futuro da computação.
+
+- [Historical Context of Turing Machines: Evolução da Computação](https://github.com/replika-ai-solutions/Papers/blob/main/Historical%20Context%20of%20Turing%20Machines.md)  
+  ![history](https://img.shields.io/badge/Hist%C3%B3rico-T%C3%A9cnico-orange)  
+  Explora o contexto histórico e técnico da criação das máquinas de Turing e como evoluíram ao longo do tempo.
+
+---
+
+![Contributions](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Abertas%20%F0%9F%94%8A-brightgreen)  
+🔧 **Contribua** com nossos papers, discuta novos conceitos e faça parte da revolução na **[Replikasisemas AI Solutions](https://github.com/replika-ai-solutions/Papers)**!
+
+
 ## 🏆 **Cases de Sucesso**  
 **1. Empresa de Logística 🚚**  
 - Redução de 40% no tempo de processamento de pedidos com automação inteligente.
